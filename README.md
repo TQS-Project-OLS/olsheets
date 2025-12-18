@@ -16,6 +16,8 @@
 
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://ua-team-alex.atlassian.net/jira/software/projects/OLS/boards/1/backlog)
 
+API documentation is available [here](http://deti-tqs-02.ua.pt:8080/swagger-ui/index.html)
+
 ## Repositories:
 Backend Repository: https://github.com/TQS-Project-OLS/backend
 
