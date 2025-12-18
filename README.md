@@ -20,3 +20,5 @@
 Backend Repository: https://github.com/TQS-Project-OLS/backend
 
 Documentation Repository: https://github.com/TQS-Project-OLS/documentation
+
+**Disclaimer**: the backend repository also contains the frontend code for this project, despite what the name might suggest. This setup was intentional to facilitate easier integration and testing between components.
